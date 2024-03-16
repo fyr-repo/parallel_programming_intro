@@ -3,7 +3,7 @@ This repo consists the report and some codes that attempts to understand the per
 
 Link to the report:
 
-https://github.com/fyr-repo/parallel_programming_intro/edit/main/README.md#:~:text=ParallelComputing-,%2D,-Report.pdf
+https://github.com/fyr-repo/parallel_programming_intro/blob/main/ParallelComputing-Report.pdf
 
 Some Google Colab notebooks are linked below:
 
